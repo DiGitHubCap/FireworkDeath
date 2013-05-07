@@ -1,0 +1,16 @@
+# Display fireworks where players die.
+# Copyright (C) 2013 Andrew Stevanus (Hoot215) <hoot893@gmail.com>
+# 
+# Copying and distribution of this file, with or without modification,
+# are permitted in any medium without royalty provided the copyright
+# notice and this notice are preserved.  This file is offered as-is,
+# without any warranty.
+
+name: FireworkDeath
+main: me.hoot215.fireworkdeath.FireworkDeath
+version: 1.0
+author: Hoot215
+permissions:
+  fireworkdeath.firework:
+    description: Displays a firework when a player dies
+    default: true
